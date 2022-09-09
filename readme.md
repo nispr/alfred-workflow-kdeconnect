@@ -5,4 +5,4 @@ An Alfred Workflow to control **[KDEConnect](https://community.kde.org/KDEConnec
 - sending files to a mobile device
 - letting phone ring (find my device)
 
-Heavily untested and WIP, but maybe it helps you.
+Heavily untested, WIP and dirty.

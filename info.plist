@@ -192,7 +192,7 @@
 	<key>createdby</key>
 	<string>Niklas Springhorn</string>
 	<key>description</key>
-	<string>Controls KDI devices</string>
+	<string>Controls KDE devices</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>

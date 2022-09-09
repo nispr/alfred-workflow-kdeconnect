@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+
 source ./parse_device_id.sh
 
 deviceList=$1

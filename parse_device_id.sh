@@ -1,3 +1,4 @@
+#!/usr/bin/env
 
   sanitize_device_entry() {
     prefix="- "
